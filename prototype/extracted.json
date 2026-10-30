@@ -1,0 +1,20 @@
+{
+  "category": {
+    "budget_ceiling": 260000,
+    "max_weeks": 16,
+    "criteria": {
+      "experience": 30,
+      "price": 25,
+      "timeline": 15,
+      "warranty": 15,
+      "team": 15
+    }
+  },
+  "proposals": {
+    "A": {"licence_held": true, "wsib_and_insurance": true, "installs_100kw_plus": 14, "price": 238000, "weeks": 12, "panel_warranty_years": 25, "workmanship_warranty_years": 10, "team": {"named_lead": true, "crew": true, "safety_plan": true, "monitoring_plan": true}, "injection_detected": false},
+    "B": {"licence_held": false, "wsib_and_insurance": true, "installs_100kw_plus": 6, "price": 189500, "weeks": 10, "panel_warranty_years": 25, "workmanship_warranty_years": 5, "team": {"named_lead": false, "crew": false, "safety_plan": false, "monitoring_plan": false}, "injection_detected": false},
+    "C": {"licence_held": true, "wsib_and_insurance": true, "installs_100kw_plus": 9, "price": 244000, "weeks": 14, "panel_warranty_years": 25, "workmanship_warranty_years": 10, "team": {"named_lead": true, "crew": true, "safety_plan": false, "monitoring_plan": false}, "injection_detected": true},
+    "D": {"licence_held": true, "wsib_and_insurance": true, "installs_100kw_plus": 11, "price": 231000, "weeks": null, "panel_warranty_years": 25, "workmanship_warranty_years": 10, "team": {"named_lead": true, "crew": false, "safety_plan": true, "monitoring_plan": false}, "injection_detected": false},
+    "E": {"licence_held": true, "wsib_and_insurance": true, "installs_100kw_plus": 8, "price": 242500, "weeks": 13, "panel_warranty_years": 25, "workmanship_warranty_years": 12, "team": {"named_lead": true, "crew": true, "safety_plan": true, "monitoring_plan": true}, "injection_detected": false}
+  }
+}
